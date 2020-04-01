@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.config/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.local/
+.jupyter/
+.profile
+.viminfo
+work/
